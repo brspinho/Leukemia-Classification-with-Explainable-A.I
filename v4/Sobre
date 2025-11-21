@@ -1,1 +1,0 @@
-Nessa abordagem foi utilizado o Swin Tiny, com cada época levando cerca de 3min. Foi possível atingir um F1-score no dataset de teste de 99.06%. No modelo V4 algumas correções foram feitas, como: correção das labels de ALL e HEM que estavam trocadas (antes ALL - 0 e HEM - 1, agora ALL - 1 e HEM - 0), inserção de gráficos para melhor visualização de resultados do modelo.
