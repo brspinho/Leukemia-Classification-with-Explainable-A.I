@@ -8,8 +8,27 @@ This repository contains the source code and necessary files to reproduce the fi
 
 ## 📄 **Article Citation**
 
-If this repository is associated with a published paper, please cite it as follows:
-**[⚠️ INSERT AUTHORS AND CITATION HERE ⚠️]**
+If this repository or the paper's findings are useful for your research, please cite it as follows:
+
+Braga, D. C., Souza, A. J., Pinho, S. B. B. and Dantas, D. (2026). **Classification of Normal versus Leukemic Cells with Swin Transformer and Balanced Data Augmentation.** In Proceedings of the 21st International Conference on Computer Vision Theory and Applications - Volume 2: VISAPP; ISBN 978-989-758-804-4; ISSN 2184-4321, SciTePress, pages 454-460. DOI: 10.5220/0014478100004084
+
+**Link:** [SciTePress](https://www.scitepress.org/PublicationsDetail.aspx?ID=PD%2FcKyerKr4%3D&t=1)
+
+### **BibTeX**
+```bibtex
+@conference{visapp26,
+author={Douglas Costa Braga and Albert de Jesus Souza and Samuel Bastos Borges Pinho and Daniel Dantas},
+title={Classification of Normal versus Leukemic Cells with Swin Transformer and Balanced Data Augmentation},
+booktitle={Proceedings of the 21st International Conference on Computer Vision Theory and Applications - Volume 2: VISAPP},
+year={2026},
+pages={454-460},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0014478100004084},
+isbn={978-989-758-804-4},
+issn={2184-4321},
+}
+```
 
 ---
 
